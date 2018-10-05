@@ -16,8 +16,6 @@
 import sys
 import random
 
-INT = 1
-CHAR = 2
 FIRST_ARG = 1
 SECOND_ARG = 2
 
